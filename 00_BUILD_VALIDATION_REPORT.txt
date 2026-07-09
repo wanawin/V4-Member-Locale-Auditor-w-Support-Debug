@@ -1,0 +1,4 @@
+MEMBER_LOCATION_AUDITOR_V4_3_SUPPORT_DISPLAY_FIX
+- app title/version updated to V4.3
+- no pd.read_csv direct preview calls remain in app.py except inside safe_read_csv
+- empty diagnostic CSVs are displayed as info/warning instead of crashing
